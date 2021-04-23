@@ -45,16 +45,17 @@ header{background-image: linear-gradient(to right, bisque 50%, pink, #f08080); m
     margin-top: 20px;
 } #name{font-size: 60px; background-color: #f08080; color:white; padding-left: 5px; padding-bottom: 5px;}
 #aboutPhoto{
-    float: left;
+    float: right;
     height:300px;
     border: 1px solid lightgray;
-    margin-right: 10px;
+    margin-left: 25px;
     /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 .lead{
-    margin-left: 15px;
+    margin-right: 15px;
     text-align: justify;
 }
+/* #aboutHead{ font-weight: bold; font-family: cursive !important;} */
 
 /* 2021 section */
 #projects2021{
